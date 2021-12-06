@@ -1,0 +1,107 @@
+/*html, body{
+    height: 100vh;
+    margin: 0px;
+}*/
+/*box{
+    height: 100vh;
+   }*/
+.grid{
+    display: grid;
+    /*grid: masonry;*/
+    /*justify-content:flex-start;*/
+ grid-template-columns: 20% 20% 20% 20%;
+ /*column-span: all;*/
+ /*grid-template-rows: masonry;*/
+   /*flex-direction: column;*/
+   /*flex-wrap: wrap;*/
+   width: 100%;
+   Height: 100%;
+      }
+      .photo {
+        grid-area: photo;
+         }
+      
+      .photo>img {
+        object-fit: cover;
+        width: 100%
+      }
+        
+.grid1{
+    background-color: aqua;
+    
+    
+     margin: 5px 5px 5px 5px;
+   }
+   .grid2{
+    background-color: darkcyan ;
+    
+     margin: 5px 5px 5px 5px;
+  }
+  .grid3{
+    background-color: firebrick  ;
+     margin: 5px;
+    }
+    .grid4{
+        background-color: lightpink ;
+         margin: 5px;
+    }
+.grid5{
+    background-color:coral ;
+    width: 180px;
+     height:100px
+    margin: 5px;
+        }
+ .grid6{
+     background-color: darkolivegreen ;
+     margin: 5px;
+      }
+.grid7{
+    background-color: gold  ;
+    margin: 5px;
+     }
+.grid8{
+    background-color: mediumslateblue  ;
+    margin: 5px;
+    }
+.grid9{
+    background-color: blueviolet ;
+    margin: 5px;
+}
+.grid10{
+    background-color: khaki ;
+    margin: 5px;
+    
+}
+.grid11{
+    background-color:hotpink  ;
+    margin: 5px;
+    
+}
+.grid12{
+    background-color: olive  ;
+    
+    margin: 5px ;
+}
+.grid13{
+    background-color:coral ;
+  
+    margin: 5px;
+}
+
+.grid14{
+    background-color: darkturquoise  ;
+     margin: 5px;
+    
+}
+
+.grid15{
+    background-color:lawngreen  ;
+    margin: 5px;
+}
+
+.grid16{
+    background-color: peru ;
+     margin: 5px;
+}
+
+

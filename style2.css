@@ -1,0 +1,115 @@
+.grid{
+    display: flex;
+    /*grid: masonry;*/
+    justify-content:flex-start;
+ /*grid-template-columns: 20% 20% 20% 20%;*/
+ /*column-span: all;*/
+ /*grid-template-rows: masonry;*/
+   flex-direction: row;
+   flex-wrap: wrap;
+   width: 100%;
+   Height: 100%;
+      }
+.grid1{
+    background-color: aqua;
+    flex: 1 0 21%;
+    Height:300px;
+    margin: 5px
+   }
+.grid2{
+    background-color:brown ;
+    flex: 1 0 21%;
+    Height:250px;
+    margin: 5px
+        }
+.grid3{
+    background-color: blueviolet ;
+    flex: 1 0 21%;
+    Height:200px;
+    margin: 5px
+    }
+.grid4{
+    background-color:coral ;
+    flex: 1 0 21%;
+    Height:250px;
+    margin: 5px
+}
+.grid5{
+    background-color: darkcyan ;
+    flex: 1 0 21%;
+    Height:100px;
+    margin: 5px
+    
+}
+.grid6{
+    background-color: darkolivegreen ;
+    flex: 1 0 21%;
+    Height:300px;
+    margin: 5px
+    align-self
+}
+.grid7{
+    background-color: khaki ;
+    flex: 1 0 21%;
+    Height:300px;
+    margin: 5px
+    
+}
+.grid8{
+    background-color: darkturquoise  ;
+    flex: 1 0 21%;
+    Height:300px;
+    margin: 5px
+    
+}
+.grid9{
+    background-color: firebrick  ;
+    flex: 1 0 21%;
+    Height:250px;
+    margin: 5px
+    
+}
+.grid10{
+      background-color: gold  ;
+      flex: 1 0 21%;
+     Height:100px;
+     margin: 5px
+    
+}
+.grid11{
+    background-color:hotpink  ;
+    flex: 1 0 21%;
+    Height:100px;
+    margin: 5px
+    
+}
+.grid12{
+    background-color:lawngreen  ;
+    flex: 1 0 21%;
+    Height:200px;
+    margin: 5px
+}
+.grid13{
+    background-color: lightpink ;
+    flex: 1 0 21%;;
+    Height:200px;  
+    margin: 5px
+}
+.grid14{
+    background-color: mediumslateblue  ;
+    flex: 1 0 21%;
+    Height:200px;
+    margin: 5px   
+}
+.grid15{
+    background-color: olive  ;
+    flex: 1 0 21%;
+    Height:250px; 
+    margin: 5px 
+}
+.grid16{
+    background-color: peru ;
+    flex: 1 0 21%;
+    Height:100px; 
+    margin: 5px 
+}
